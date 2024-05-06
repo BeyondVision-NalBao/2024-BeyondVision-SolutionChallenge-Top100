@@ -45,17 +45,17 @@ Our United Nations' Sustainable Development goals are as follows.
 <br>
 
 ## 💻 Demo Video
-[![BeyondVision](https://i.postimg.cc/mkvZQ6gn/2024-03-12-114736.png)](https://www.youtube.com/watch?v=HcM3EjDrV1g)
+[![BeyondVision](https://i.postimg.cc/mkvZQ6gn/2024-03-12-114736.png)](https://www.youtube.com/watch?v=fHF8ATWjeQQ)
 
 |Sign In and Sign up with Google Oauth|Voice assistant|Exercise setting|Exercise| 
 | ----------------------------------- | ------------- | ------ | -------|
-|![SignIn](https://github.com/BeyondVision-NalBao/2024-BeyondVision-SolutionChallenge/assets/93874872/7f447b11-2222-416d-a21c-8e2894c699b4) |![Voice](https://github.com/BeyondVision-NalBao/2024-BeyondVision-SolutionChallenge/assets/93874872/a9ed54e8-e79a-4ec1-9b15-cd36150022cf) |![Exercise](https://github.com/BeyondVision-NalBao/2024-BeyondVision-SolutionChallenge/assets/93874872/37c16615-410e-4581-840b-c5d5d89b5100) | [Exercise]|
+|![SignIn](https://github.com/BeyondVision-NalBao/2024-BeyondVision-SolutionChallenge/assets/93874872/7f447b11-2222-416d-a21c-8e2894c699b4) |![Voice](https://github.com/BeyondVision-NalBao/2024-BeyondVision-SolutionChallenge/assets/93874872/a9ed54e8-e79a-4ec1-9b15-cd36150022cf) |![Exercise](https://github.com/BeyondVision-NalBao/2024-BeyondVision-SolutionChallenge/assets/93874872/37c16615-410e-4581-840b-c5d5d89b5100) | Please check out the video below due to the limited capacity|
 |Video with Sound      |Video with Sound              |Video with Sound                           | Video with Sound |
 |[Sign In and Sign up with Google Oauth](https://drive.google.com/file/d/1wqNQnDHsYEUqTFZbUAm_S_9ywbi0bhpA/view?usp=sharing)  |[Voice assistant ](https://drive.google.com/file/d/1z4Kbvog8DjcLS-i3MQsrSCxz0CDZKtSN/view?usp=sharing)   |[Exercise Setting](https://drive.google.com/file/d/1VsWg-875UiQVhRXz3tFemRDVomjOE88e/view?usp=sharing)   |[Exercise](https://drive.google.com/file/d/1hfoo-fjquooBx4J5YI0H6fRyv6CS4U1-/view?usp=sharing)|
 
 |Smart Watch| Exercise Routine          | Exercise Record                      | Setting                           | 
-|--------| ----------------------------------- | ------------- | ------ |
-|[Smart Watch]| ![Routine](https://github.com/BeyondVision-NalBao/2024-BeyondVision-SolutionChallenge/assets/93874872/111f117a-8568-45e2-9bab-3439eb6baf4b) | ![Routine](https://github.com/BeyondVision-NalBao/2024-BeyondVision-SolutionChallenge/assets/93874872/ec4195cc-780b-4f23-993a-2fb3c4cb829d) | ![Setting](https://github.com/BeyondVision-NalBao/2024-BeyondVision-SolutionChallenge/assets/93874872/792a87e9-2a67-4421-85b1-454492472855)|
+|--------| ----------------------------------- | ------------- | ------ | 
+|![워치](https://github.com/BeyondVision-NalBao/2024-BeyondVision-SolutionChallenge-Top100/assets/90203803/4a95a2ea-a0c4-46b9-ae87-1469296d7f82) |![Routine](https://github.com/BeyondVision-NalBao/2024-BeyondVision-SolutionChallenge/assets/93874872/111f117a-8568-45e2-9bab-3439eb6baf4b) | ![Routine](https://github.com/BeyondVision-NalBao/2024-BeyondVision-SolutionChallenge/assets/93874872/ec4195cc-780b-4f23-993a-2fb3c4cb829d) | ![Setting](https://github.com/BeyondVision-NalBao/2024-BeyondVision-SolutionChallenge/assets/93874872/792a87e9-2a67-4421-85b1-454492472855)|
 |Video  |Video      |Video          |Video                       | 
 |[Smart Watch](https://drive.google.com/file/d/1e0bKfO4EaEUz30acjXQF212_b44SAKmT/view?usp=sharing)|[Exercise Routine](https://drive.google.com/file/d/1srev4VU7d3_Ln9qdvB5TwYGmqJwKZb-8/view?usp=sharing)|[Exercise Record](https://drive.google.com/file/d/1L_g1M1auoTgcgyL3d1XFYe_h4flCiGjS/view?usp=sharing)   |[Setting](https://drive.google.com/file/d/1NBnenQvRIWjtNDq7rV8fPridQ8TKyifC/view?usp=sharing) | 
 <br>
