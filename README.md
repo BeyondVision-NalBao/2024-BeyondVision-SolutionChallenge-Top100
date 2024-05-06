@@ -23,7 +23,7 @@ Our United Nations' Sustainable Development goals are as follows.
 <br>
 **4.5 Quality Education** - By by 2030, eliminate gender disparities in education and ensure equal access to all levels of education and vocational training for the vulnerable, including persons with disabilities, indigenous peoples, and children in vulnerable situations.<br>
 <br>
-[![Solution-Challenge-6.png](https://i.postimg.cc/y8sSLxSj/Solution-Challenge-6.png)](https://postimg.cc/Czr11F7n)<br>
+[![Solution-Challenge-6.png](https://i.postimg.cc/0NFCV5J8/Solution-Challenge.png)](https://postimg.cc/Czr11F7n)<br>
 <br>
 <br>
 
